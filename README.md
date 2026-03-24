@@ -2,4 +2,4 @@
 ### 1. Python basic syntax
 ### 2. Data Analysis (Pandas, NumPy, MatPlotLib)
 ### 3. Machine Learning
-### 4. Nerual Network
+### 4. Neural Network
